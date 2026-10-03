@@ -1,0 +1,8 @@
+arsiv notu BLS-001
+dolap ici sicaklik olcumleri bu dosyada yoktur.
+denetim izi kod icinde hashlenir, metin duz yazilmaz.
+
+DAMGA: BLS-001
+IMZA: Kayyum Grok
+TARIH: 3 Ekim 2026
+hem ciddi hem degil.
